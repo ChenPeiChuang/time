@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<package name="timetable" extends="struts-default" namespace="/">
+		<action name="user_*" class="loginAction" method="{1}">
+			<result name="success">/main.jsp</result>
+			<result name="input">/index.jsp</result>
+			<result name="registerUI">/register.jsp</result>
+			<result name="adminLogin_sucess">/frame.jsp</result>
+		</action>
+		<action name="detail_*" class="detailAction" method="{1}">
+			<result name="success">/timetable.jsp</result>
+			<result name="findAll_success">/alltimetable.jsp</result>
+			<result name="updateUI_success">/update.jsp</result>
+			<result name="update_success" type="redirectAction">detail_findAll</result>
+			<result name="delete_success" type="redirectAction">detail_findAll</result>
+			<result name="save_success" type="redirectAction">detail_findAll</result>
+			<result name="insertUI_success">/saveUI.jsp</result>
+			<result name="findClass_success">/findClassA.jsp</result>
+		</action>
+	</package>
+</struts>    

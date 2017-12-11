@@ -1,0 +1,503 @@
+!SESSION 2017-10-12 13:59:14.041 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2017-10-12 13:59:34.571
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-10-12 13:59:34.571
+!MESSAGE A conflict occurred for CTRL+F9:
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.activateTask,Activate Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43e412cf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(RunSQLAction,Run SQL,
+		Run SQL,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@328ef6db,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:40.779
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:40.857
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:40.935
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.013
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.076
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.123
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.185
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.247
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.247
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.279
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.294
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.294
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.357
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.372
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.403
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.403
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.435
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.450
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.450
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.481
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.497
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-10-12 13:59:41.513
+!MESSAGE Installed snippet library: D:\software\myeclipse 2014\configuration\org.eclipse.osgi\bundles\147\1\.cp\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.528
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.575
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.622
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.653
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.700
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.731
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.778
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.840
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.903
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.934
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:41.981
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.027
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.074
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.105
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.152
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.183
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.230
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.261
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.293
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.339
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.371
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.402
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.433
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.464
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.495
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.542
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.573
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.620
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.683
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.714
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.745
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.776
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.807
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.839
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.885
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.917
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.948
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:42.995
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.010
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.041
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.073
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.166
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.213
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.322
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.369
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.431
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.494
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.541
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.572
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.603
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2017-10-12 13:59:43.619
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2017-10-12 13:59:43.619
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2017-10-12 13:59:43.619
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2017-10-12 13:59:43.619
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2017-10-12 13:59:43.619
+!MESSAGE Converted legacy STS plugin state locations
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.634
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.650
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.712
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.743
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.790
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.821
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.837
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.868
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.899
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.931
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.946
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:43.977
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.009
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.040
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.087
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.165
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.180
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.243
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.289
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.367
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.414
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.445
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.461
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.508
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.539
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.570
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.601
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.648
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.664
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.695
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.726
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.742
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.773
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.804
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.835
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.851
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.882
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.913
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.945
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:44.976
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.007
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.023
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.038
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.069
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.085
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.116
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.132
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.147
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.179
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.194
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.225
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.241
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.257
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.288
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.303
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.335
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.350
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.366
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.397
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.413
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.428
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.459
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.475
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.491
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.506
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.537
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.553
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.569
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.600
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.615
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.631
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.662
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.678
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.693
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.725
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.740
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.771
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.787
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.803
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.834
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.865
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY com.genuitec.eclipse.maven 4 0 2017-10-12 13:59:45.881
+!MESSAGE Execution errororg.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:2.3.1:install-file failed: Plugin org.apache.maven.plugins:maven-install-plugin:2.3.1 or one of its dependencies could not be resolved: Failed to collect dependencies for org.apache.maven.plugins:maven-install-plugin:jar:2.3.1 ()
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-10-12 13:59:54.773
+!MESSAGE Unable to update index for UK|http://uk.maven.org/maven2
